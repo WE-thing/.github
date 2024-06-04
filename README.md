@@ -28,12 +28,56 @@
 2. 내 정보
 
 # 사용 기술
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![tailwindcss](https://img.shields.io/badge/-tailwindcss-000?&logo=tailwindcss)
+
+
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![mongoose](https://img.shields.io/badge/-mongoose-000?&logo=mongoose)
+
+
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+![Notion](https://img.shields.io/badge/-Notion-000?&logo=Notion)
+![Slack](https://img.shields.io/badge/-Slack-000?&logo=Slack)
+
 
 # 아키텍처
+![wething drawio](https://github.com/WE-thing/.github/assets/85729858/773aaf14-75f8-4f4f-b227-3d74de78f147)
 
 # 이슈 목록
 
 # 확장 가능성
 
 # 팀원 소개
-## 역할
+<table>
+  <tbody>
+    <tr>
+        <td align="center"><a href="https://github.com/KimRiun"><b>김경륜</b></td>
+        <td align="center"><a href="https://github.com/KimRiun"><b>이동인</b></td>
+        <td align="center"><a href="https://github.com/KimRiun"><b>이원규</b></td>
+        <td align="center"><a href="https://github.com/KimRiun"><b>임세현</b></td>
+    </tr>
+    <tr>
+      <td align="center"><img width = "150px" src="https://avatars.githubusercontent.com/u/56223389?v=4" alt=""/><br /><br /></td>
+      <td align="center"><img width = "150px" src="https://avatars.githubusercontent.com/u/55528388?v=4" alt=""/><br /></td>
+      <td align="center"><img width = "150px" src="https://avatars.githubusercontent.com/u/85729858?v=4" alt=""/><br /></td>
+      <td align="center"><img width = "150px" src="https://avatars.githubusercontent.com/u/116863184?v=4" alt=""/><br /></td>
+    </tr>
+    <tr>
+       <td align="center">Full-stack</td>
+       <td align="center">Full-stack</td>
+       <td align="center">Full-stack</td>
+       <td align="center">Full-stack</td>
+    </tr>
+    <tr>
+       <td align="center"><b>실시간 채팅</b> <br/> Chat <br/> TabList <br/> CI/CD <br/> UI/UX </td>
+       <td align="center"><b>메인 청첩장</b> <br/> Main <br/> Invitation <br/> Location <br/> Gallery <br/> UI/UX </td> 
+       <td align="center"><b>하객 명단 관리</b> <br/> Contact <br/> GuestBook <br/> WeddingGift <br/> Schedule </td> 
+       <td align="center"><b>공유앨범</b> <br/> SharedAlbum <br/> Info <br/> DB Management </td> 
+    </tr>
+  </tbody>
+</table>
