@@ -204,9 +204,9 @@ server
   <tbody>
     <tr>
         <td align="center"><a href="https://github.com/KimRiun"><b>김경륜</b></td>
-        <td align="center"><a href="https://github.com/KimRiun"><b>이동인</b></td>
-        <td align="center"><a href="https://github.com/KimRiun"><b>이원규</b></td>
-        <td align="center"><a href="https://github.com/KimRiun"><b>임세현</b></td>
+        <td align="center"><a href="https://github.com/donginLee"><b>이동인</b></td>
+        <td align="center"><a href="https://github.com/OneK-2"><b>이원규</b></td>
+        <td align="center"><a href="https://github.com/LimSeHyeon"><b>임세현</b></td>
     </tr>
     <tr>
       <td align="center"><img width = "150px" src="https://avatars.githubusercontent.com/u/56223389?v=4" alt=""/><br /><br /></td>
